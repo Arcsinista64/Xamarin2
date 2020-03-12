@@ -1,0 +1,90 @@
+C:\Xamarin Projects\Calculator\Calculator\Calculator.Droid\bin\Debug\Calculator.Droid.dll
+C:\Xamarin Projects\Calculator\Calculator\Calculator.Droid\bin\Debug\Calculator.Droid.pdb
+C:\Xamarin Projects\Calculator\Calculator\Calculator.Droid\bin\Debug\com.xamarin.Calculator.Droid.apk
+C:\Xamarin Projects\Calculator\Calculator\Calculator.Droid\bin\Debug\com.xamarin.Calculator.Droid-Signed.apk
+C:\Xamarin Projects\Calculator\Calculator\Calculator.Droid\bin\Debug\Calculator.dll
+C:\Xamarin Projects\Calculator\Calculator\Calculator.Droid\bin\Debug\FormsViewGroup.dll
+C:\Xamarin Projects\Calculator\Calculator\Calculator.Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Xamarin Projects\Calculator\Calculator\Calculator.Droid\bin\Debug\Xamarin.Android.Support.Annotations.dll
+C:\Xamarin Projects\Calculator\Calculator\Calculator.Droid\bin\Debug\Xamarin.Android.Support.Compat.dll
+C:\Xamarin Projects\Calculator\Calculator\Calculator.Droid\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+C:\Xamarin Projects\Calculator\Calculator\Calculator.Droid\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+C:\Xamarin Projects\Calculator\Calculator\Calculator.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Xamarin Projects\Calculator\Calculator\Calculator.Droid\bin\Debug\Xamarin.Android.Support.Fragment.dll
+C:\Xamarin Projects\Calculator\Calculator\Calculator.Droid\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+C:\Xamarin Projects\Calculator\Calculator\Calculator.Droid\bin\Debug\Xamarin.Android.Support.Transition.dll
+C:\Xamarin Projects\Calculator\Calculator\Calculator.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Xamarin Projects\Calculator\Calculator\Calculator.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Xamarin Projects\Calculator\Calculator\Calculator.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Xamarin Projects\Calculator\Calculator\Calculator.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Xamarin Projects\Calculator\Calculator\Calculator.Droid\bin\Debug\Xamarin.Android.Support.v7.Palette.dll
+C:\Xamarin Projects\Calculator\Calculator\Calculator.Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Xamarin Projects\Calculator\Calculator\Calculator.Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Xamarin Projects\Calculator\Calculator\Calculator.Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\Xamarin Projects\Calculator\Calculator\Calculator.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Xamarin Projects\Calculator\Calculator\Calculator.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Xamarin Projects\Calculator\Calculator\Calculator.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Xamarin Projects\Calculator\Calculator\Calculator.Droid\bin\Debug\Calculator.pdb
+C:\Xamarin Projects\Calculator\Calculator\Calculator.Droid\bin\Debug\FormsViewGroup.pdb
+C:\Xamarin Projects\Calculator\Calculator\Calculator.Droid\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Xamarin Projects\Calculator\Calculator\Calculator.Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\Xamarin Projects\Calculator\Calculator\Calculator.Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Xamarin Projects\Calculator\Calculator\Calculator.Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Xamarin Projects\Calculator\Calculator\Calculator.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Xamarin Projects\Calculator\Calculator\Calculator.Droid\obj\Debug\Calculator.Droid.csprojResolveAssemblyReference.cache
+C:\Xamarin Projects\Calculator\Calculator\Calculator.Droid\obj\Debug\Calculator.Droid.csproj.CoreCompileInputs.cache
+C:\Xamarin Projects\Calculator\Calculator\Calculator.Droid\obj\Debug\Calculator.Droid.dll
+C:\Xamarin Projects\Calculator\Calculator\Calculator.Droid\obj\Debug\Calculator.Droid.pdb
+C:\Xamarin Projects\Calculator\Calculator\Calculator.Droid\obj\Debug\android\bin\com.xamarin.Calculator.Droid.apk
+C:\Xamarin Projects\Calculator\Calculator\Calculator.Droid\obj\Debug\res\drawable\icon.png
+C:\Xamarin Projects\Calculator\Calculator\Calculator.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Xamarin Projects\Calculator\Calculator\Calculator.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Xamarin Projects\Calculator\Calculator\Calculator.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Xamarin Projects\Calculator\Calculator\Calculator.Droid\obj\Debug\R.cs.flag
+C:\Xamarin Projects\Calculator\Calculator\Calculator.Droid\obj\Debug\uploadflags.txt
+C:\Xamarin Projects\Calculator\Calculator\Calculator.Droid\bin\Debug\Calculator.dll.mdb
+C:\Xamarin Projects\Calculator\Calculator\Calculator.Droid\bin\Debug\FormsViewGroup.dll.mdb
+C:\Xamarin Projects\Calculator\Calculator\Calculator.Droid\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Xamarin Projects\Calculator\Calculator\Calculator.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Xamarin Projects\Calculator\Calculator\Calculator.Droid\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Xamarin Projects\Calculator\Calculator\Calculator.Droid\bin\Debug\Calculator.Droid.dll.mdb
+C:\Xamarin Projects\Calculator\Calculator\Calculator.Droid\obj\Debug\android\assets\Calculator.dll.mdb
+C:\Xamarin Projects\Calculator\Calculator\Calculator.Droid\obj\Debug\android\assets\Calculator.Droid.dll.mdb
+C:\Xamarin Projects\Calculator\Calculator\Calculator.Droid\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Xamarin Projects\Calculator\Calculator\Calculator.Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Xamarin Projects\Calculator\Calculator\Calculator.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Xamarin Projects\Calculator\Calculator\Calculator.Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Xamarin Projects\Calculator\Calculator\Calculator.Droid\bin\Debug\Calculator.Droid.dll
+bin\Debug\Calculator.dll.mdb
+bin\Debug\FormsViewGroup.dll.mdb
+bin\Debug\Xamarin.Forms.Core.dll.mdb
+bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+bin\Debug\Mono.Android.pdb
+bin\Debug\mscorlib.pdb
+bin\Debug\System.Core.pdb
+bin\Debug\System.pdb
+bin\Debug\System.Xml.pdb
+bin\Debug\System.Xml.Linq.pdb
+bin\Debug\System.Net.Http.pdb
+bin\Debug\System.Runtime.Serialization.pdb
+bin\Debug\System.ServiceModel.Internals.pdb
+bin\Debug\Mono.Security.pdb
+bin\Debug\System.ComponentModel.Composition.pdb
+obj\Debug\linksrc\Calculator.Droid.dll.mdb
+obj\Debug\linksrc\Calculator.dll.mdb
+obj\Debug\linksrc\FormsViewGroup.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Core.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Xaml.dll.mdb
+obj\Debug\linksrc\Mono.Android.pdb
+obj\Debug\linksrc\mscorlib.pdb
+obj\Debug\linksrc\System.Core.pdb
+obj\Debug\linksrc\System.pdb
+obj\Debug\linksrc\System.Xml.pdb
+obj\Debug\linksrc\System.Xml.Linq.pdb
+obj\Debug\linksrc\System.Net.Http.pdb
+obj\Debug\linksrc\System.Runtime.Serialization.pdb
+obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+obj\Debug\linksrc\Mono.Security.pdb
+obj\Debug\linksrc\System.ComponentModel.Composition.pdb

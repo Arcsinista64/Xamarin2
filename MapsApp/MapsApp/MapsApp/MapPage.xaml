@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:maps="clr-namespace:Xamarin.Forms.Maps;assembly=Xamarin.Forms.Maps"
+             x:Class="MapsApp.MapPage">
+    <ContentPage.Content>
+        <StackLayout>
+            <maps:Map x:Name="myMap" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" />
+            <StackLayout Orientation="Horizontal" Spacing="15" Padding="20" VerticalOptions="End" HorizontalOptions="FillAndExpand">
+                <Button x:Name="streetBtn" HorizontalOptions="StartAndExpand" VerticalOptions="Center" HeightRequest="50" Text="Street" Clicked="StreetBtn_Clicked" TextColor="White" BackgroundColor="#2196F3"/>
+                <Button x:Name="hybridBtn" HorizontalOptions="Center" VerticalOptions="Center" HeightRequest="50" Text="Hybrid" Clicked="HybridBtn_Clicked" TextColor="White" BackgroundColor="#2196F3"/>
+                <Button x:Name="satelliteBtn" HorizontalOptions="EndAndExpand" VerticalOptions="Center" HeightRequest="50" Text="Satellite" Clicked="SatelliteBtn_Clicked" TextColor="White" BackgroundColor="#2196F3"/>
+            </StackLayout>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

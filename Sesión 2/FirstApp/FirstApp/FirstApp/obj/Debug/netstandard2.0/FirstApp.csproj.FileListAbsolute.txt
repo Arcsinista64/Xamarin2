@@ -1,0 +1,12 @@
+C:\CursoXamarin\Sesión 2\FirstApp\FirstApp\FirstApp\bin\Debug\netstandard2.0\FirstApp.deps.json
+C:\CursoXamarin\Sesión 2\FirstApp\FirstApp\FirstApp\bin\Debug\netstandard2.0\FirstApp.dll
+C:\CursoXamarin\Sesión 2\FirstApp\FirstApp\FirstApp\bin\Debug\netstandard2.0\FirstApp.pdb
+C:\CursoXamarin\Sesión 2\FirstApp\FirstApp\FirstApp\obj\Debug\netstandard2.0\FirstApp.csprojAssemblyReference.cache
+C:\CursoXamarin\Sesión 2\FirstApp\FirstApp\FirstApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\CursoXamarin\Sesión 2\FirstApp\FirstApp\FirstApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\CursoXamarin\Sesión 2\FirstApp\FirstApp\FirstApp\obj\Debug\netstandard2.0\FirstApp.csproj.CoreCompileInputs.cache
+C:\CursoXamarin\Sesión 2\FirstApp\FirstApp\FirstApp\obj\Debug\netstandard2.0\FirstApp.AssemblyInfoInputs.cache
+C:\CursoXamarin\Sesión 2\FirstApp\FirstApp\FirstApp\obj\Debug\netstandard2.0\FirstApp.AssemblyInfo.cs
+C:\CursoXamarin\Sesión 2\FirstApp\FirstApp\FirstApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\CursoXamarin\Sesión 2\FirstApp\FirstApp\FirstApp\obj\Debug\netstandard2.0\FirstApp.dll
+C:\CursoXamarin\Sesión 2\FirstApp\FirstApp\FirstApp\obj\Debug\netstandard2.0\FirstApp.pdb

@@ -1,0 +1,14 @@
+C:\CursoXamarin\MapsApp\MapsApp\MapsApp\bin\Debug\netstandard2.0\MapsApp.deps.json
+C:\CursoXamarin\MapsApp\MapsApp\MapsApp\bin\Debug\netstandard2.0\MapsApp.dll
+C:\CursoXamarin\MapsApp\MapsApp\MapsApp\bin\Debug\netstandard2.0\MapsApp.pdb
+C:\CursoXamarin\MapsApp\MapsApp\MapsApp\obj\Debug\netstandard2.0\MapsApp.csprojAssemblyReference.cache
+C:\CursoXamarin\MapsApp\MapsApp\MapsApp\obj\Debug\netstandard2.0\AccessMap.xaml.g.cs
+C:\CursoXamarin\MapsApp\MapsApp\MapsApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\CursoXamarin\MapsApp\MapsApp\MapsApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\CursoXamarin\MapsApp\MapsApp\MapsApp\obj\Debug\netstandard2.0\MapPage.xaml.g.cs
+C:\CursoXamarin\MapsApp\MapsApp\MapsApp\obj\Debug\netstandard2.0\MapsApp.csproj.CoreCompileInputs.cache
+C:\CursoXamarin\MapsApp\MapsApp\MapsApp\obj\Debug\netstandard2.0\MapsApp.AssemblyInfoInputs.cache
+C:\CursoXamarin\MapsApp\MapsApp\MapsApp\obj\Debug\netstandard2.0\MapsApp.AssemblyInfo.cs
+C:\CursoXamarin\MapsApp\MapsApp\MapsApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\CursoXamarin\MapsApp\MapsApp\MapsApp\obj\Debug\netstandard2.0\MapsApp.dll
+C:\CursoXamarin\MapsApp\MapsApp\MapsApp\obj\Debug\netstandard2.0\MapsApp.pdb

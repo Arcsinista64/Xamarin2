@@ -1,0 +1,11 @@
+C:\CursoXamarin\Sesión 2\Phoneword\Phoneword\Phoneword\bin\Debug\netstandard2.0\Phoneword.deps.json
+C:\CursoXamarin\Sesión 2\Phoneword\Phoneword\Phoneword\bin\Debug\netstandard2.0\Phoneword.dll
+C:\CursoXamarin\Sesión 2\Phoneword\Phoneword\Phoneword\bin\Debug\netstandard2.0\Phoneword.pdb
+C:\CursoXamarin\Sesión 2\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.csprojAssemblyReference.cache
+C:\CursoXamarin\Sesión 2\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\CursoXamarin\Sesión 2\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.csproj.CoreCompileInputs.cache
+C:\CursoXamarin\Sesión 2\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.AssemblyInfoInputs.cache
+C:\CursoXamarin\Sesión 2\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.AssemblyInfo.cs
+C:\CursoXamarin\Sesión 2\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.dll
+C:\CursoXamarin\Sesión 2\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\Phoneword.pdb
+C:\CursoXamarin\Sesión 2\Phoneword\Phoneword\Phoneword\obj\Debug\netstandard2.0\XamlC.stamp

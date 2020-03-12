@@ -1,0 +1,6 @@
+MyTunes.MainActivity, MyTunes.Droid;md57a705ed518a4f1290b87d4602887c7b4.MainActivity
+MyTunes.MainActivity;md57a705ed518a4f1290b87d4602887c7b4.MainActivity
+mytunes.MainActivity;md57a705ed518a4f1290b87d4602887c7b4.MainActivity
+MyTunes.ListAdapter`1, MyTunes.Droid;md57a705ed518a4f1290b87d4602887c7b4.ListAdapter_1
+MyTunes.ListAdapter`1;md57a705ed518a4f1290b87d4602887c7b4.ListAdapter_1
+mytunes.ListAdapter_1;md57a705ed518a4f1290b87d4602887c7b4.ListAdapter_1

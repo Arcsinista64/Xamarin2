@@ -1,0 +1,9 @@
+C:\CursoXamarin\Sesión 1\Ejercicio 2\Proyecto\MyTunes.NetStandard\bin\Debug\netstandard2.0\MyTunes.NetStandard.deps.json
+C:\CursoXamarin\Sesión 1\Ejercicio 2\Proyecto\MyTunes.NetStandard\bin\Debug\netstandard2.0\MyTunes.NetStandard.dll
+C:\CursoXamarin\Sesión 1\Ejercicio 2\Proyecto\MyTunes.NetStandard\obj\Debug\netstandard2.0\MyTunes.NetStandard.csprojAssemblyReference.cache
+C:\CursoXamarin\Sesión 1\Ejercicio 2\Proyecto\MyTunes.NetStandard\obj\Debug\netstandard2.0\MyTunes.NetStandard.csproj.CoreCompileInputs.cache
+C:\CursoXamarin\Sesión 1\Ejercicio 2\Proyecto\MyTunes.NetStandard\obj\Debug\netstandard2.0\MyTunes.NetStandard.AssemblyInfoInputs.cache
+C:\CursoXamarin\Sesión 1\Ejercicio 2\Proyecto\MyTunes.NetStandard\obj\Debug\netstandard2.0\MyTunes.NetStandard.AssemblyInfo.cs
+C:\CursoXamarin\Sesión 1\Ejercicio 2\Proyecto\MyTunes.NetStandard\bin\Debug\netstandard2.0\MyTunes.NetStandard.pdb
+C:\CursoXamarin\Sesión 1\Ejercicio 2\Proyecto\MyTunes.NetStandard\obj\Debug\netstandard2.0\MyTunes.NetStandard.dll
+C:\CursoXamarin\Sesión 1\Ejercicio 2\Proyecto\MyTunes.NetStandard\obj\Debug\netstandard2.0\MyTunes.NetStandard.pdb

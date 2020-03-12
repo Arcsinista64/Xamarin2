@@ -1,0 +1,16 @@
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment\bin\Debug\Alignment.dll
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment\bin\Debug\Alignment.pdb
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment\bin\Debug\Xamarin.Forms.Core.dll
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment\bin\Debug\Xamarin.Forms.Core.xml
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment\obj\Debug\Alignment.csprojResolveAssemblyReference.cache
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment\obj\Debug\Alignment.csproj.CoreCompileInputs.cache
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment\obj\Debug\Alignment.MainPage.xaml.g.cs
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment\obj\Debug\Alignment.App.xaml.g.cs
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment\obj\Debug\Alignment.dll
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment\obj\Debug\Alignment.pdb

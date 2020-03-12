@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MapsApp.AccessMap">
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout Padding="20">
+                <Label Text="Nombre de ubicación" />
+                <Entry x:Name="EntryName" Text="CDIS"/>
+
+                <Label Text="Latitud" Margin="0,20,0,0"/>
+                <Entry x:Name="EntryLatitude" Keyboard="Numeric" Text="25.665392"/>
+
+                <Label Text="Longityd" Margin="0,20,0,0"/>
+                <Entry x:Name="EntryLongitude" Keyboard="Numeric" Text="-100.341156"/>
+
+                <Button x:Name="OpenMapBtn" Text="Acceder al mapa" Clicked="OpenMapBtn_Clicked" HeightRequest="50" TextColor="White" BackgroundColor="#2196F3"/>
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>

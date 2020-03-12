@@ -1,0 +1,14 @@
+C:\CursoXamarin\NetStatus\NetStatus\NetStatus\bin\Debug\netstandard2.0\NetStatus.deps.json
+C:\CursoXamarin\NetStatus\NetStatus\NetStatus\bin\Debug\netstandard2.0\NetStatus.dll
+C:\CursoXamarin\NetStatus\NetStatus\NetStatus\obj\Debug\netstandard2.0\NetStatus.csprojAssemblyReference.cache
+C:\CursoXamarin\NetStatus\NetStatus\NetStatus\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\CursoXamarin\NetStatus\NetStatus\NetStatus\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\CursoXamarin\NetStatus\NetStatus\NetStatus\obj\Debug\netstandard2.0\NetStatus.csproj.CoreCompileInputs.cache
+C:\CursoXamarin\NetStatus\NetStatus\NetStatus\obj\Debug\netstandard2.0\NetStatus.AssemblyInfoInputs.cache
+C:\CursoXamarin\NetStatus\NetStatus\NetStatus\obj\Debug\netstandard2.0\NetStatus.AssemblyInfo.cs
+C:\CursoXamarin\NetStatus\NetStatus\NetStatus\bin\Debug\netstandard2.0\NetStatus.pdb
+C:\CursoXamarin\NetStatus\NetStatus\NetStatus\obj\Debug\netstandard2.0\NetworkViewPage.xaml.g.cs
+C:\CursoXamarin\NetStatus\NetStatus\NetStatus\obj\Debug\netstandard2.0\NoNetworkPage.xaml.g.cs
+C:\CursoXamarin\NetStatus\NetStatus\NetStatus\obj\Debug\netstandard2.0\XamlC.stamp
+C:\CursoXamarin\NetStatus\NetStatus\NetStatus\obj\Debug\netstandard2.0\NetStatus.dll
+C:\CursoXamarin\NetStatus\NetStatus\NetStatus\obj\Debug\netstandard2.0\NetStatus.pdb

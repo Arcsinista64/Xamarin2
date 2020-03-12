@@ -1,0 +1,33 @@
+C:\Xamarin Projects\5-TipCalculator\TipCalculator\TipCalculator\bin\Debug\TipCalculator.dll
+C:\Xamarin Projects\5-TipCalculator\TipCalculator\TipCalculator\bin\Debug\TipCalculator.pdb
+C:\Xamarin Projects\5-TipCalculator\TipCalculator\TipCalculator\bin\Debug\Xamarin.Forms.Core.dll
+C:\Xamarin Projects\5-TipCalculator\TipCalculator\TipCalculator\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Xamarin Projects\5-TipCalculator\TipCalculator\TipCalculator\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Xamarin Projects\5-TipCalculator\TipCalculator\TipCalculator\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Xamarin Projects\5-TipCalculator\TipCalculator\TipCalculator\bin\Debug\Xamarin.Forms.Core.xml
+C:\Xamarin Projects\5-TipCalculator\TipCalculator\TipCalculator\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Xamarin Projects\5-TipCalculator\TipCalculator\TipCalculator\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Xamarin Projects\5-TipCalculator\TipCalculator\TipCalculator\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Xamarin Projects\5-TipCalculator\TipCalculator\TipCalculator\obj\Debug\TipCalculator.csprojResolveAssemblyReference.cache
+C:\Xamarin Projects\5-TipCalculator\TipCalculator\TipCalculator\obj\Debug\TipCalculator.csproj.CoreCompileInputs.cache
+C:\Xamarin Projects\5-TipCalculator\TipCalculator\TipCalculator\obj\Debug\TipCalculator.MainPage.xaml.g.cs
+C:\Xamarin Projects\5-TipCalculator\TipCalculator\TipCalculator\obj\Debug\TipCalculator.App.xaml.g.cs
+C:\Xamarin Projects\5-TipCalculator\TipCalculator\TipCalculator\obj\Debug\TipCalculator.dll
+C:\Xamarin Projects\5-TipCalculator\TipCalculator\TipCalculator\obj\Debug\TipCalculator.pdb
+C:\CursoXamarin\Sesión 4\Ejercicio 2\TipCalculator\TipCalculator\TipCalculator\bin\Debug\TipCalculator.dll
+C:\CursoXamarin\Sesión 4\Ejercicio 2\TipCalculator\TipCalculator\TipCalculator\bin\Debug\TipCalculator.pdb
+C:\CursoXamarin\Sesión 4\Ejercicio 2\TipCalculator\TipCalculator\TipCalculator\bin\Debug\Xamarin.Forms.Core.dll
+C:\CursoXamarin\Sesión 4\Ejercicio 2\TipCalculator\TipCalculator\TipCalculator\bin\Debug\Xamarin.Forms.Platform.dll
+C:\CursoXamarin\Sesión 4\Ejercicio 2\TipCalculator\TipCalculator\TipCalculator\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\CursoXamarin\Sesión 4\Ejercicio 2\TipCalculator\TipCalculator\TipCalculator\bin\Debug\Xamarin.Forms.Core.pdb
+C:\CursoXamarin\Sesión 4\Ejercicio 2\TipCalculator\TipCalculator\TipCalculator\bin\Debug\Xamarin.Forms.Core.xml
+C:\CursoXamarin\Sesión 4\Ejercicio 2\TipCalculator\TipCalculator\TipCalculator\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\CursoXamarin\Sesión 4\Ejercicio 2\TipCalculator\TipCalculator\TipCalculator\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\CursoXamarin\Sesión 4\Ejercicio 2\TipCalculator\TipCalculator\TipCalculator\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\CursoXamarin\Sesión 4\Ejercicio 2\TipCalculator\TipCalculator\TipCalculator\obj\Debug\TipCalculator.csprojAssemblyReference.cache
+C:\CursoXamarin\Sesión 4\Ejercicio 2\TipCalculator\TipCalculator\TipCalculator\obj\Debug\TipCalculator.csproj.CoreCompileInputs.cache
+C:\CursoXamarin\Sesión 4\Ejercicio 2\TipCalculator\TipCalculator\TipCalculator\obj\Debug\TipCalculator.MainPage.xaml.g.cs
+C:\CursoXamarin\Sesión 4\Ejercicio 2\TipCalculator\TipCalculator\TipCalculator\obj\Debug\TipCalculator.App.xaml.g.cs
+C:\CursoXamarin\Sesión 4\Ejercicio 2\TipCalculator\TipCalculator\TipCalculator\obj\Debug\TipCalculator.csproj.CopyComplete
+C:\CursoXamarin\Sesión 4\Ejercicio 2\TipCalculator\TipCalculator\TipCalculator\obj\Debug\TipCalculator.dll
+C:\CursoXamarin\Sesión 4\Ejercicio 2\TipCalculator\TipCalculator\TipCalculator\obj\Debug\TipCalculator.pdb

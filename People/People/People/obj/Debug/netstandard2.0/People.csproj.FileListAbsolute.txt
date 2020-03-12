@@ -1,0 +1,12 @@
+C:\CursoXamarin\People\People\People\bin\Debug\netstandard2.0\People.deps.json
+C:\CursoXamarin\People\People\People\bin\Debug\netstandard2.0\People.dll
+C:\CursoXamarin\People\People\People\bin\Debug\netstandard2.0\People.pdb
+C:\CursoXamarin\People\People\People\obj\Debug\netstandard2.0\People.csprojAssemblyReference.cache
+C:\CursoXamarin\People\People\People\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\CursoXamarin\People\People\People\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\CursoXamarin\People\People\People\obj\Debug\netstandard2.0\People.csproj.CoreCompileInputs.cache
+C:\CursoXamarin\People\People\People\obj\Debug\netstandard2.0\People.AssemblyInfoInputs.cache
+C:\CursoXamarin\People\People\People\obj\Debug\netstandard2.0\People.AssemblyInfo.cs
+C:\CursoXamarin\People\People\People\obj\Debug\netstandard2.0\XamlC.stamp
+C:\CursoXamarin\People\People\People\obj\Debug\netstandard2.0\People.dll
+C:\CursoXamarin\People\People\People\obj\Debug\netstandard2.0\People.pdb

@@ -1,0 +1,93 @@
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment.Droid\bin\Debug\Alignment.Droid.dll
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment.Droid\bin\Debug\Alignment.Droid.pdb
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment.Droid\bin\Debug\com.xamarin.Alignment.Droid.apk
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment.Droid\bin\Debug\com.xamarin.Alignment.Droid-Signed.apk
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment.Droid\bin\Debug\Alignment.dll
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment.Droid\bin\Debug\FormsViewGroup.dll
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment.Droid\bin\Debug\Xamarin.Android.Support.Animated.Vector.Drawable.dll
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment.Droid\bin\Debug\Xamarin.Android.Support.Annotations.dll
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment.Droid\bin\Debug\Xamarin.Android.Support.Compat.dll
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment.Droid\bin\Debug\Xamarin.Android.Support.Core.UI.dll
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment.Droid\bin\Debug\Xamarin.Android.Support.Core.Utils.dll
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment.Droid\bin\Debug\Xamarin.Android.Support.Design.dll
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment.Droid\bin\Debug\Xamarin.Android.Support.Fragment.dll
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment.Droid\bin\Debug\Xamarin.Android.Support.Media.Compat.dll
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment.Droid\bin\Debug\Xamarin.Android.Support.Transition.dll
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment.Droid\bin\Debug\Xamarin.Android.Support.v4.dll
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment.Droid\bin\Debug\Xamarin.Android.Support.v7.AppCompat.dll
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment.Droid\bin\Debug\Xamarin.Android.Support.v7.CardView.dll
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment.Droid\bin\Debug\Xamarin.Android.Support.v7.MediaRouter.dll
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment.Droid\bin\Debug\Xamarin.Android.Support.v7.Palette.dll
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment.Droid\bin\Debug\Xamarin.Android.Support.v7.RecyclerView.dll
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment.Droid\bin\Debug\Xamarin.Android.Support.Vector.Drawable.dll
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment.Droid\bin\Debug\Xamarin.Forms.Core.dll
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment.Droid\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment.Droid\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment.Droid\bin\Debug\Alignment.pdb
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment.Droid\bin\Debug\FormsViewGroup.pdb
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment.Droid\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment.Droid\bin\Debug\Xamarin.Forms.Core.xml
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment.Droid\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment.Droid\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment.Droid\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment.Droid\obj\Debug\Alignment.Droid.csprojResolveAssemblyReference.cache
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment.Droid\obj\Debug\Alignment.Droid.csproj.CoreCompileInputs.cache
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment.Droid\obj\Debug\Alignment.Droid.dll
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment.Droid\obj\Debug\Alignment.Droid.pdb
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment.Droid\obj\Debug\android\bin\com.xamarin.Alignment.Droid.apk
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment.Droid\obj\Debug\res\drawable\icon.png
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment.Droid\obj\Debug\res\drawable-hdpi\icon.png
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment.Droid\obj\Debug\res\drawable-xhdpi\icon.png
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment.Droid\obj\Debug\res\drawable-xxhdpi\icon.png
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment.Droid\obj\Debug\res\layout\tabbar.xml
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment.Droid\obj\Debug\res\layout\toolbar.xml
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment.Droid\obj\Debug\res\values\styles.xml
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment.Droid\obj\Debug\R.cs.flag
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment.Droid\obj\Debug\uploadflags.txt
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment.Droid\bin\Debug\Alignment.dll.mdb
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment.Droid\bin\Debug\FormsViewGroup.dll.mdb
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment.Droid\bin\Debug\Xamarin.Forms.Core.dll.mdb
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment.Droid\bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment.Droid\bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment.Droid\bin\Debug\Alignment.Droid.dll.mdb
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment.Droid\obj\Debug\android\assets\Alignment.dll.mdb
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment.Droid\obj\Debug\android\assets\Alignment.Droid.dll.mdb
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment.Droid\obj\Debug\android\assets\FormsViewGroup.dll.mdb
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment.Droid\obj\Debug\android\assets\Xamarin.Forms.Core.dll.mdb
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment.Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
+C:\Xamarin Projects\4-Alignment\Alignment\Alignment.Droid\bin\Debug\Alignment.Droid.dll
+bin\Debug\Alignment.dll.mdb
+bin\Debug\FormsViewGroup.dll.mdb
+bin\Debug\Xamarin.Forms.Core.dll.mdb
+bin\Debug\Xamarin.Forms.Platform.Android.dll.mdb
+bin\Debug\Xamarin.Forms.Xaml.dll.mdb
+bin\Debug\Mono.Android.pdb
+bin\Debug\mscorlib.pdb
+bin\Debug\System.Core.pdb
+bin\Debug\System.pdb
+bin\Debug\System.Xml.pdb
+bin\Debug\System.Xml.Linq.pdb
+bin\Debug\System.Net.Http.pdb
+bin\Debug\System.Runtime.Serialization.pdb
+bin\Debug\System.ServiceModel.Internals.pdb
+bin\Debug\Mono.Security.pdb
+bin\Debug\System.ComponentModel.Composition.pdb
+obj\Debug\linksrc\Alignment.Droid.dll.mdb
+obj\Debug\linksrc\Alignment.dll.mdb
+obj\Debug\linksrc\FormsViewGroup.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Core.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Platform.Android.dll.mdb
+obj\Debug\linksrc\Xamarin.Forms.Xaml.dll.mdb
+obj\Debug\linksrc\Mono.Android.pdb
+obj\Debug\linksrc\mscorlib.pdb
+obj\Debug\linksrc\System.Core.pdb
+obj\Debug\linksrc\System.pdb
+obj\Debug\linksrc\System.Xml.pdb
+obj\Debug\linksrc\System.Xml.Linq.pdb
+obj\Debug\linksrc\System.Net.Http.pdb
+obj\Debug\linksrc\System.Runtime.Serialization.pdb
+obj\Debug\linksrc\System.ServiceModel.Internals.pdb
+obj\Debug\linksrc\Mono.Security.pdb
+obj\Debug\linksrc\System.ComponentModel.Composition.pdb

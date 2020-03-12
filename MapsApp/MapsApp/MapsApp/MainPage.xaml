@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:MapsApp"
+             x:Class="MapsApp.MainPage"
+             BarBackgroundColor="#2196F3"
+             BarTextColor="White">
+
+    <TabbedPage.Children>
+        <local:MapPage Title="Ver Mapa" Icon="map.png"/>
+        <local:AccessMap Title="Acceder al Mapa" Icon="location.png"/>
+    </TabbedPage.Children>
+
+</TabbedPage>

@@ -1,0 +1,1 @@
+public const string StorageConnection = "DefaultEndpointsProtocol=https;AccountName=eljamesarandastorage;AccountKey=DP4eiMMRRR83iUfI90erZzSEgf3OIb/VlwTENPcBMAcEjjcUsQL7kyItspH6LBo9oj3IUxcZAkOcVsf5bnkQig==;EndpointSuffix=core.windows.net";
